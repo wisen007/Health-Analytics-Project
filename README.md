@@ -1,7 +1,7 @@
 # 💊 OnyxPharm Global — Pharmaceutical Sales Dashboard
 ### OnyxData X ZoomCharts Challenge | Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjJkN2EwMDMtYjgyYy00MGY2LTgxODQtNjU2MzE2Y2Q1ODcyIiwidCI6IjI1NzYyMjUxLTdhYTktNGM3Mi05MDVmLTM5YmYwMjZhOGE4NCIsImMiOjN9)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
