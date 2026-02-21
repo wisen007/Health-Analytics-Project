@@ -50,7 +50,7 @@ Geographical and pharmacy-level performance analysis.
 ### 3. Product Overview
 Category, brand, and product-level profitability deep dive.
 
-![Product Page](images/dashboard_product.png)
+![Product Page](images/product.png)
 
 **Highlights:**
 - **Prescription** is the highest-grossing category (315K profit), followed by **Wellness** (297K)
