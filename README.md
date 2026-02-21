@@ -108,10 +108,10 @@ OnyxPharm-Global-Dashboard/
 ## 👤 Author
 
 **Joshua Achire**
-Master's Student in Applied & Computational Mathematics | Data Analyst
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joshuaachire)
 
 ---
 
-*Built for the OnyxData X ZoomCharts Power BI Challenge*
+
