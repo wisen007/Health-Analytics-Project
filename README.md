@@ -36,7 +36,7 @@ High-level performance summary across all 120 pharmacies for 2024 vs 2025.
 ### 2. Location & Pharmacy Overview
 Geographical and pharmacy-level performance analysis.
 
-![Location Page](images/dashboard_location.png)
+![Location Page](images/location.png)
 
 **Highlights:**
 - **Urban pharmacies** (50 locations) account for the highest share of profit at **42%**
