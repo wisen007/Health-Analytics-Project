@@ -19,7 +19,7 @@ Pharmacy chains face significant analytical gaps — fragmented visibility acros
 ### 1. Overview
 High-level performance summary across all 120 pharmacies for 2024 vs 2025.
 
-![Overview Page](images/dashboard_overview.png)
+![Overview Page](images/overview.png)
 
 **Key Metrics:**
 | Metric | Value | YOY Change |
